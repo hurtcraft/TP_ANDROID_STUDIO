@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tp_dev_mobile</string>
+    <string name="txt">Salut IUT de Paris</string>
+    <string name="identifiez_vous">Identifiez vous</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="mot_de_passe_oubli">Mot de passe oublié</string>
+    <string name="connectez_vous">Connectez vous</string>
+    <string name="creer_un_profil">Creer un profil</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="inscription">Inscription</string>
+    <string name="creation_d_un_compte">Création d\'un compte</string>
+    <string name="numéro_de_téléphone">Numéro de téléphone</string>
+    <string name="annuler">Annuler</string>
+</resources>
